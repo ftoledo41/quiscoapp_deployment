@@ -26,6 +26,8 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
+# aqui se agregan lo que no se debe subir a github
+.env
 .env*.local
 
 # vercel
